@@ -1,0 +1,20 @@
+BEGIN:VCARD
+VERSION:3.0
+FN;CHARSET=UTF-8:Azam Muhammed
+N;CHARSET=UTF-8:Muhammed;Azam;;;
+GENDER:M
+EMAIL;CHARSET=UTF-8;type=HOME,INTERNET:azaam01k@gmail.com
+EMAIL;CHARSET=UTF-8;type=WORK,INTERNET:tradifytraders@outlook.com
+TEL;TYPE=HOME,VOICE:+919496918480
+TEL;TYPE=WORK,VOICE:+919496990900
+LABEL;CHARSET=UTF-8;TYPE=WORK:Tradify Traders
+ADR;CHARSET=UTF-8;TYPE=WORK:;;Azad Complex\, Perumbotta Road\, Elamakkara;Ernakulam;Kerala;682026;India
+TITLE;CHARSET=UTF-8:Managing Director
+ORG;CHARSET=UTF-8:Tradify Traders
+URL;type=WORK;CHARSET=UTF-8:https://www.tradifytraders.com/
+X-SOCIALPROFILE;TYPE=facebook:https://www.facebook.com/profile.php?id=100010308998941
+X-SOCIALPROFILE;TYPE=linkedin:https://www.linkedin.com/in/azam-muhammed-m-s-04332320b/
+X-SOCIALPROFILE;TYPE=instagram:https://www.instagram.com/tradifytraders/
+X-SOCIALPROFILE;TYPE=Website:https://www.tradifytraders.com/
+REV:2024-03-26T09:35:11.974Z
+END:VCARD
